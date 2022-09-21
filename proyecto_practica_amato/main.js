@@ -45,5 +45,15 @@ while (categoria != "salir" && categoria != null){
 
         console.log(productosParaCarro);
     }
+
 }
+
+console.log(document)
+    document.querySelector('h1').textContent = 'hola todo bien'
+    console.log(document.querySelector('h1'))
+
+    document.querySelector("h3")
+    console.log( document.querySelector("h3"))
+
+    console.log(getElementByid("hero"))
 
